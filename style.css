@@ -1,4 +1,3 @@
-
 body{
 background-color:;
 }
@@ -6,4 +5,78 @@ background-color:;
 #city{
 color:orange;
 text-align:center;
+}
+
+#title{
+	text-align:center;
+}
+
+#london{
+    background: url('https://images.alphacoders.com/470/thumb-1920-470208.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Rome{
+    background: url('https://polarsteps.s3.amazonaws.com/u_782852/da7c28ff-ec3c-4ca9-8722-426a45ead89d_original_image') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Sofia{
+    background: url('https://lp-cms-production.imgix.net/2019-06/6e1cc02e2f7f0cad6dc59797bae4d800-sofia.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Berlin{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/1200px-Aerial_view_of_Berlin_%2832881394137%29.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Madrid{
+    background: url('https://d3500i1ecak5li.cloudfront.net/s3fs-public/images/chapters/Madrid%20-%20Travel-Massive.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Valencia{
+    background: url('https://www.sommertage.com/wp-content/uploads/2018/04/Valencia-Tipps.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Moscow{
+    background: url('https://www.traveldailymedia.com/assets/2019/12/moscow-cathedral.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Lisbon{
+    background: url('https://turkishairlines.ssl.cdn.sdlmedia.com/637108782694777659EU.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Paris{
+    background: url('https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?$MO_masthead-property-mobile$') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Vienna{
+    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Austria/Vienna/st-stephen-s-cathedral-vienna-p-xlarge.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
 }
