@@ -147,6 +147,76 @@ text-align:center;
 	height:500px;
 }
 
+#Cairo{
+    background: url('https://www.flyairsinai.com/images/Cairo_Panorama_Home_FlyAirSinai.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Morocco{
+    background: url('https://res.cloudinary.com/stay-list/image/upload/b_rgb:000000,co_rgb:ffffff,o_90,w_2800,f_auto/v1549609635/area/morocco-l') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Capetown{
+    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/Africa/South%20Africa/Cape%20Town/cape-town-guides-lead.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Lagos{
+    background: url('https://cdn.britannica.com/36/191736-050-5726A7F4/view-Lagos-Nigeria.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Tunis{
+    background: url('https://qtxasset.com/hotelmanagement/1570815420/Tunis-Getty-efesenko.jpg?ixVjSwu4qMSZbIc4VJT6sMW_VkcXiocf') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Alexandria{
+    background: url('https://www.tripsavvy.com/thmb/KFb8ibq2BL8hfeohZugsaxcwi-0=/2449x1611/filters:fill(auto,1)/Alexandria-57912d013df78c17348a4163.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Giza{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Asmara{
+    background: url('https://cdn.britannica.com/19/195819-050-0201D7BF/Asmara-Eritrea.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Pretoria{
+    background: url('https://staticstatemag.america.gov/uploads/2019/04/shutterstock_55043605.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Durban{
+    background: url('https://cdn.cnn.com/cnnnext/dam/assets/140912110250-durban-7.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
 #slider{
 overflow: hidden;
 width: 45%;
