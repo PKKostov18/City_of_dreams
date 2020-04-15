@@ -1,7 +1,3 @@
-body{
-background-color:;
-}
-
 #city{
 color:orange;
 text-align:center;
@@ -75,7 +71,77 @@ text-align:center;
 }
 
 #Vienna{
-    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/Austria/Vienna/st-stephen-s-cathedral-vienna-p-xlarge.jpg') no-repeat center;
+    background: url('https://wonderfulengineering.com/wp-content/uploads/2015/06/Vienna-Wallpaper-15.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Tokyo{
+    background: url('https://www.gotokyo.org/en/plan/tokyo-outline/images/main.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Istanbul{
+    background: url('https://images.alphacoders.com/100/1004829.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Singapore{
+    background: url('https://awebstar.com.sg/wp-content/uploads/2019/08/Singapore.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#HK{
+    background: url('https://pmcvariety.files.wordpress.com/2018/05/cte_extreme-ends-cr-res.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Delhi{
+    background: url('https://www.revv.co.in/blogs/wp-content/uploads/2020/02/visit-in-delhi-with-self-drive.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Shanghai{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shanghai_skyline_from_the_bund.jpg/1200px-Shanghai_skyline_from_the_bund.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Seoul{
+    background: url('https://www.gsma.com/newsroom/wp-content/uploads//Korean-Mobile-IoT.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Jakarta{
+    background: url('https://thenomadvisor.com/wp-content/uploads/2019/03/wheretostayinjakarta.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Dubai{
+    background: url('https://lp-cms-production.imgix.net/2019-06/59758d46f79e6f06e2725f147bfcd085-downtown-dubai.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Kathmandu{
+    background: url('https://www.welcomenepal.com/uploads/destination/kathmandu-oy-lt2.jpeg') no-repeat center;
 	background-size:cover;
 	background-attachment:fixed;
 	height:500px;
