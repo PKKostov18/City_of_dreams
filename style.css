@@ -218,6 +218,126 @@ text-align:center;
     position:relative;
 }
 
+#NY{
+    background: url('https://cdn.vox-cdn.com/thumbor/GF8Gg9zv_MLPWKA9RJtNM8J5HyU=/0x0:2000x1333/1200x900/filters:focal(840x507:1160x827)/cdn.vox-cdn.com/uploads/chorus_image/image/56328225/190219_10_19_04_5DSR5554.12.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Chicago{
+    background: url('https://cdn.choosechicago.com/uploads/2019/06/general-contact-1800x900.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#LA{
+    background: url('https://www.discoverlosangeles.com/sites/default/files/styles/hero/public/images/2019-10/JW%20Marriott%20LA%20LIVE%20110%20Freeway.jpg?itok=7Ess55t8') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#SF{
+    background: url('https://sfchamber.com/wp-content/uploads/2017/11/merlin_136702122_448a1ddc-b5e9-4303-bc0d-701c9addf3f3-superJumbo.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#DC{
+    background: url('https://www.mccarter.com/wp-content/uploads/2019/10/Location-Washingtopn.png') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#San_diego{
+    background: url('https://ca-times.brightspotcdn.com/dims4/default/d0ade15/2147483647/strip/true/crop/2048x1365+0+0/resize/1486x990!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe0%2F91%2F2b0fd3629e5cf94c4516a462ba1b%2Fla-me-ln-san-diego-minimum-wage-20140715-001') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#LV{
+    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/North%20America/USA/Las%20Vegas/las-vegas-lead-image.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Miami{
+    background: url('https://blog-www.pods.com/wp-content/uploads/2019/08/MG_6_1_Miami.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Seattle{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Seattle_Kerry_Park_Skyline.jpg/1200px-Seattle_Kerry_Park_Skyline.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Boston{
+    background: url('https://cdn.vox-cdn.com/thumbor/uZJkqBgAr2sQCyaEr_TxTkN5p_U=/0x0:3800x2265/1200x800/filters:focal(1596x829:2204x1437)/cdn.vox-cdn.com/uploads/chorus_image/image/66504085/shutterstock_216617104.0.0.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Houstan{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632225.tif/lossy-page1-1200px-Aerial_views_of_the_Houston%2C_Texas%2C_skyline_in_2014_LCCN2014632225.tif.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#SJ{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Downtown_San_Jose_%2830001966530%29.jpg/1200px-Downtown_San_Jose_%2830001966530%29.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Dallas{
+    background: url('https://assets.dmagstatic.com/wp-content/uploads/2016/09/DallasSkyline_SS_382997482.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Orlando{
+    background: url('https://cdn.britannica.com/07/201607-050-0B5774CB/Orlando-Florida-aerial-cityscape-towards-Eola-Lake.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Atlanta{
+    background: url('https://i1.wp.com/www.myasbn.com/wp-content/uploads/2020/01/atlanta-market-1.jpg?fit=1000%2C644&ssl=1') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
 #slider{
 overflow: hidden;
 width: 45%;
@@ -340,4 +460,3 @@ float: left;
   cursor: pointer;
   display: none;
 }
-
