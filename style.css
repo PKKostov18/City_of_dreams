@@ -338,6 +338,86 @@ text-align:center;
     position:relative;
 }
 
+#Sydney{
+    background: url('https://lp-cms-production.imgix.net/2019-06/65830387.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Melbourne{
+    background: url('https://www.rmit.edu.au/content/dam/rmit/au/en/news/news_Melbourne_AdobeStock.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Canberra{
+    background: url('https://lp-cms-production.imgix.net/2019-06/f22a1e4f3307b7455a76bffcc0e504b7-canberra.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Darwin{
+    background: url('https://www.roughguides.com/wp-content/uploads/2016/09/darwin-australia-shutterstock_616342019-1680x1050.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Newcastle{
+    background: url('https://www.portofnewcastle.com.au/wp-content/uploads/2019/09/Port-aerial.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Townsville{
+    background: url('https://www.townsvillechamber.com.au/wp-content/uploads/2019/08/Drone-city-shot.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Maitland{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maitland_Town_Hall.jpg/1200px-Maitland_Town_Hall.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Wagga{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/a/aa/Aerial_view_of_Central_Wagga_Wagga.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Bunbury{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Bunbury_03.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Isa{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/3/30/Panorama_of_Mount_Isa%2C_Queensland.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
 #slider{
 overflow: hidden;
 width: 45%;
