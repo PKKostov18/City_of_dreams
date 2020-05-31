@@ -1,0 +1,601 @@
+#city{
+	color:orange;
+	text-align:center;
+}
+
+#title{
+	text-align:center;
+}
+
+#london{
+    background: url('https://images.alphacoders.com/470/thumb-1920-470208.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Rome{
+    background: url('https://polarsteps.s3.amazonaws.com/u_782852/da7c28ff-ec3c-4ca9-8722-426a45ead89d_original_image') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Sofia{
+    background: url('https://lp-cms-production.imgix.net/2019-06/6e1cc02e2f7f0cad6dc59797bae4d800-sofia.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Berlin{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Aerial_view_of_Berlin_%2832881394137%29.jpg/1200px-Aerial_view_of_Berlin_%2832881394137%29.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Madrid{
+    background: url('https://d3500i1ecak5li.cloudfront.net/s3fs-public/images/chapters/Madrid%20-%20Travel-Massive.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Valencia{
+    background: url('https://www.sommertage.com/wp-content/uploads/2018/04/Valencia-Tipps.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Moscow{
+    background: url('https://www.traveldailymedia.com/assets/2019/12/moscow-cathedral.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Lisbon{
+    background: url('https://turkishairlines.ssl.cdn.sdlmedia.com/637108782694777659EU.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Paris{
+    background: url('https://photos.mandarinoriental.com/is/image/MandarinOriental/paris-2017-home?$MO_masthead-property-mobile$') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Vienna{
+    background: url('https://wonderfulengineering.com/wp-content/uploads/2015/06/Vienna-Wallpaper-15.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Tokyo{
+    background: url('https://www.gotokyo.org/en/plan/tokyo-outline/images/main.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Istanbul{
+    background: url('https://images.alphacoders.com/100/1004829.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Singapore{
+    background: url('https://awebstar.com.sg/wp-content/uploads/2019/08/Singapore.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#HK{
+    background: url('https://pmcvariety.files.wordpress.com/2018/05/cte_extreme-ends-cr-res.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Delhi{
+    background: url('https://www.revv.co.in/blogs/wp-content/uploads/2020/02/visit-in-delhi-with-self-drive.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Shanghai{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shanghai_skyline_from_the_bund.jpg/1200px-Shanghai_skyline_from_the_bund.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Seoul{
+    background: url('https://www.gsma.com/newsroom/wp-content/uploads//Korean-Mobile-IoT.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Jakarta{
+    background: url('https://thenomadvisor.com/wp-content/uploads/2019/03/wheretostayinjakarta.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Dubai{
+    background: url('https://lp-cms-production.imgix.net/2019-06/59758d46f79e6f06e2725f147bfcd085-downtown-dubai.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Kathmandu{
+    background: url('https://www.welcomenepal.com/uploads/destination/kathmandu-oy-lt2.jpeg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Cairo{
+    background: url('https://www.flyairsinai.com/images/Cairo_Panorama_Home_FlyAirSinai.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Morocco{
+    background: url('https://res.cloudinary.com/stay-list/image/upload/b_rgb:000000,co_rgb:ffffff,o_90,w_2800,f_auto/v1549609635/area/morocco-l') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Capetown{
+    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/Africa/South%20Africa/Cape%20Town/cape-town-guides-lead.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Lagos{
+    background: url('https://cdn.britannica.com/36/191736-050-5726A7F4/view-Lagos-Nigeria.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Tunis{
+    background: url('https://qtxasset.com/hotelmanagement/1570815420/Tunis-Getty-efesenko.jpg?ixVjSwu4qMSZbIc4VJT6sMW_VkcXiocf') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Alexandria{
+    background: url('https://www.tripsavvy.com/thmb/KFb8ibq2BL8hfeohZugsaxcwi-0=/2449x1611/filters:fill(auto,1)/Alexandria-57912d013df78c17348a4163.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Giza{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/a/af/All_Gizah_Pyramids.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Asmara{
+    background: url('https://cdn.britannica.com/19/195819-050-0201D7BF/Asmara-Eritrea.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Pretoria{
+    background: url('https://staticstatemag.america.gov/uploads/2019/04/shutterstock_55043605.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+}
+
+#Durban{
+    background: url('https://cdn.cnn.com/cnnnext/dam/assets/140912110250-durban-7.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#NY{
+    background: url('https://p2d7x8x2.stackpathcdn.com/wordpress/wp-content/uploads/2016/10/new-york.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Chicago{
+    background: url('https://cdn.choosechicago.com/uploads/2019/06/general-contact-1800x900.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#LA{
+    background: url('https://www.smartcitiesworld.net/AcuCustom/Sitename/DAM/020/Los_Angeles_AdobeStock_240447665_1.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#SF{
+    background: url('https://www.flytap.com/-/media/Flytap/destinations/images/Lead/sfrancisco_lead.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#DC{
+    background: url('https://www.mccarter.com/wp-content/uploads/2019/10/Location-Washingtopn.png') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#San_diego{
+    background: url('https://www.outfrontmedia.com/-/media/images/ofm/markets/san-diego/san-diego-hero.ashx') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#LV{
+    background: url('https://www.telegraph.co.uk/content/dam/Travel/Destinations/North%20America/USA/Las%20Vegas/las-vegas-lead-image.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Miami{
+    background: url('https://blog-www.pods.com/wp-content/uploads/2019/08/MG_6_1_Miami.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Seattle{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Seattle_Kerry_Park_Skyline.jpg/1200px-Seattle_Kerry_Park_Skyline.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Boston{
+    background: url('https://cdn.vox-cdn.com/thumbor/uZJkqBgAr2sQCyaEr_TxTkN5p_U=/0x0:3800x2265/1200x800/filters:focal(1596x829:2204x1437)/cdn.vox-cdn.com/uploads/chorus_image/image/66504085/shutterstock_216617104.0.0.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Houstan{
+    background: url('https://media.radissonhotels.net/image/Destination-Pages/Localattraction/16256-118729-f63246008_3XL.jpg?impolicy=HomeHero') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#SJ{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Downtown_San_Jose_%2830001966530%29.jpg/1200px-Downtown_San_Jose_%2830001966530%29.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Dallas{
+    background: url('https://assets.dmagstatic.com/wp-content/uploads/2016/09/DallasSkyline_SS_382997482.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Orlando{
+    background: url('https://cdn.britannica.com/07/201607-050-0B5774CB/Orlando-Florida-aerial-cityscape-towards-Eola-Lake.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Atlanta{
+    background: url('https://i1.wp.com/www.myasbn.com/wp-content/uploads/2020/01/atlanta-market-1.jpg?fit=1000%2C644&ssl=1') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Sydney{
+    background: url('https://lp-cms-production.imgix.net/2019-06/65830387.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Melbourne{
+    background: url('https://www.rmit.edu.au/content/dam/rmit/au/en/news/news_Melbourne_AdobeStock.jpg') no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Canberra{
+    background: url('https://lp-cms-production.imgix.net/2019-06/f22a1e4f3307b7455a76bffcc0e504b7-canberra.jpg?fit=crop&q=40&sharp=10&vib=20&auto=format&ixlib=react-8.6.4')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Darwin{
+    background: url('https://www.roughguides.com/wp-content/uploads/2016/09/darwin-australia-shutterstock_616342019-1680x1050.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Newcastle{
+    background: url('https://www.portofnewcastle.com.au/wp-content/uploads/2019/09/Port-aerial.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Townsville{
+    background: url('https://www.townsvillechamber.com.au/wp-content/uploads/2019/08/Drone-city-shot.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Maitland{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Maitland_Town_Hall.jpg/1200px-Maitland_Town_Hall.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Wagga{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/a/aa/Aerial_view_of_Central_Wagga_Wagga.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Bunbury{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/5/5c/Bunbury_03.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#Isa{
+    background: url('https://upload.wikimedia.org/wikipedia/commons/3/30/Panorama_of_Mount_Isa%2C_Queensland.jpg')no-repeat center;
+	background-size:cover;
+	background-attachment:fixed;
+	height:500px;
+    position:relative;
+}
+
+#slider{
+	float:right;
+	position: relative;
+	overflow: hidden;
+	width: 40%;
+	margin-right: 30px;
+}
+
+#slider figure{
+	position: relative;
+	width: 1000%;
+	margin-top: 20px;
+	margin-right: 60px;
+	left: 0;
+	animation: 30s slider infinite;
+}
+
+#slider figure img{
+	width: 10%;
+	float: left;
+}
+
+@keyframes slider{
+    1% {left: 0;}
+    5.2% {left: 0;}
+    10.4% {left: -100%;}
+    15.6% {left: -100%;}
+    20.8% {left: -200%;}
+    26% {left: -200%;}
+    31.2% {left: -300%;}
+    36.4% {left: -300%;}
+    41.6% {left: -400%;}
+    46.8% {left: -400%;}
+    52% {left: -500%;}
+    57.2% {left: -500%;}
+    62.4% {left: -600%;}
+    67.6% {left: -600%;}
+    72.8% {left: -700%;}
+    78% {left: -700%;}
+    85% {left: -800%;}
+    90% {left: -800%;}
+    100% {left: -900%;}
+}
+
+.middle{
+   position: relative;
+   bottom:0;
+   transform: translateY(-50%);
+   width: 100%;
+   text-align: center;
+   float:right;
+
+}
+.btn{
+   display: inline-block;
+   width: 81px;
+   height: 81px;
+   background: #f1f1f1;
+   margin: 10px;
+   border-radius: 30%;
+   box-shadow: 0 5px 15px -5px #00000070;
+   color: #3498db;
+   overflow: hidden;
+   position: relative;
+}
+.btn i{
+   line-height: 70px;
+   font-size: 26px;
+   transition: 0.2s linear;
+}
+.btn:hover i{
+   transform: scale(1.5);
+   color: #f1f1f1;
+}
+
+
+#btn2::before{
+   background-image: linear-gradient(to bottom right, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D, #F56040, #F77737, #FCAF45, #FFDC80);
+}
+
+#btn3::before{
+   background: #ff0000;
+}
+
+.btn::before{
+   content: "";
+   position: absolute;
+   width: 120%;
+   height: 120%;
+   background: #3498db;
+   transform: rotate(45deg);
+   left: -110%;
+   top: 90%;
+}
+.btn:hover::before{
+   animation: aaa 0.7s 1;
+   top: -10%;
+   left: -10%;
+}
+@keyframes aaa {
+   0%{
+     left: -110%;
+     top: 90%;
+   }50%{
+     left: 10%;
+     top: -30%;
+   }100%{
+     top: -10%;
+     left: -10%;
+   }
+}
+
+#topBtn{
+   position: fixed;
+   bottom: 40px;
+   right: 40px;
+   font-size: 22px;
+   width: 50px;
+   height: 50px;
+   background: #e74c3c;
+   color: white;
+   border: none;
+   cursor: pointer;
+   display: none;
+}
+
+#style , html {
+   height: 100%;
+   background-color:#1a1a1a;
+}
+
+.hero-image {
+   /* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://photos.mandarinoriental.com/is/image/MandarinOriental/new-york-2017-columbus-circle-01?wid=2880&hei=1280&fmt=jpeg&crop=6,1064,4928,2190&anchor=2032,2134&qlt=75,0&op_sharpen=0&resMode=sharp2&op_usm=0,0,0,0&iccEmbed=0&printRes=72&fit=crop");
+
+   /* Set a specific height */
+   height: 65%;
+
+   /* Position and center the image to scale nicely on all screens */
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   position: relative;
+}
+
+/* Place text in the middle of the image */
+.hero-text {
+   text-align: center;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+   color: white;
+}
+
+#h1{
+   font-size:45px;	
+}
+
+#p{
+	text-align:left;
+	width:550px;
+	font-size:17px;
+	color:white;
+	margin-left:50px;
+	margin-top:30px;
+	margin-bottom:100px;
+	position:relative;
+	
+}
+
+#p1{
+	float:right;
+	width:500px;
+	font-size:17px;
+	color:white;
+	margin-bottom:100px;
+	margin-right:100px;
+	position:relative;
+	
+}
